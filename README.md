@@ -1,0 +1,1 @@
+This is an app that laods cat images when clicking the button. The app uses Gulp and NPM to concatenate files and pipes them into the dist directrory. Requirements are Gulp, Gulp Uglify, Gulp Concat, Gulp Nodemon, Express and NPM
